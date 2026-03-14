@@ -10,7 +10,7 @@ The goal of this project is to understand how traders react to different market 
 
 ---
 
-## Dataset
+## Dataset(Unzip the dataset)
 
 Two datasets were used:
 
